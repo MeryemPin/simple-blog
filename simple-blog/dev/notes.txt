@@ -7,4 +7,5 @@ x 06-adding styles
 notes: inline style={{key: "value",}} oder outline.
 x 07-click events
 x 08-useState Hook
-.. 09-intro to react dev tools
+x 09-intro to react dev tools
+.. 10-outputting lists
