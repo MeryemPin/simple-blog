@@ -1,3 +1,5 @@
 x 02-react set-up
 x 03-components and templates
-.. 04-dynamic values in templates
+x 04-dynamic values in templates
+notes: in jsx werden primitive Datentypen in {} hinzugefügt.
+.. 05-multiple components
