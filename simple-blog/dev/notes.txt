@@ -5,4 +5,6 @@ notes: in jsx werden primitive Datentypen in {} hinzugefügt.
 x 05-multiple components
 x 06-adding styles
 notes: inline style={{key: "value",}} oder outline.
-.. 07-click events
+x 07-click events
+x 08-useState Hook
+.. 09-intro to react dev tools
