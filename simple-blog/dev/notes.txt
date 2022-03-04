@@ -2,4 +2,7 @@ x 02-react set-up
 x 03-components and templates
 x 04-dynamic values in templates
 notes: in jsx werden primitive Datentypen in {} hinzugefügt.
-.. 05-multiple components
+x 05-multiple components
+x 06-adding styles
+notes: inline style={{key: "value",}} oder outline.
+.. 07-click events
