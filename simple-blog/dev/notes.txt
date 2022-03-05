@@ -11,4 +11,5 @@ x 09-intro to react dev tools
 x 10-outputting lists
 x 11-props
 notes: anstatt props, direkt { blogs , title } herausziehen.
-.. 12-reusing components
+x 12-reusing components
+.. 13-function as props
