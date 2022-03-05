@@ -12,4 +12,5 @@ x 10-outputting lists
 x 11-props
 notes: anstatt props, direkt { blogs , title } herausziehen.
 x 12-reusing components
-.. 13-function as props
+x 13-function as props
+.. 14-useEffect
