@@ -19,4 +19,5 @@ notes...
 x 16-using json server
 notes: npx json-server --watch data/db.json --port 8000
 x 17-fetching data with useEffect
-.. 18-conditional loading message
+x 18-conditional loading message
+.. 19-handling fetch errors
