@@ -9,4 +9,6 @@ x 07-click events
 x 08-useState Hook
 x 09-intro to react dev tools
 x 10-outputting lists
-.. 11-
+x 11-props
+notes: anstatt props, direkt { blogs , title } herausziehen.
+.. 12-reusing components
