@@ -13,4 +13,5 @@ x 11-props
 notes: anstatt props, direkt { blogs , title } herausziehen.
 x 12-reusing components
 x 13-function as props
-.. 14-useEffect
+x 14-useEffect
+.. 15-useEffect dependencies
