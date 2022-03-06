@@ -22,4 +22,5 @@ x 17-fetching data with useEffect
 x 18-conditional loading message
 x 19-handling fetch errors
 x 20-making a custom hook
-.. 21-the react router
+x 21-the react router
+.. 22-exact match routes
