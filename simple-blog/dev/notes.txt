@@ -21,4 +21,5 @@ notes: npx json-server --watch data/db.json --port 8000
 x 17-fetching data with useEffect
 x 18-conditional loading message
 x 19-handling fetch errors
-.. 20-making a custom hook
+x 20-making a custom hook
+.. 21-the react router
