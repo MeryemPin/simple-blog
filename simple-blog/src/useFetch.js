@@ -1,6 +1,8 @@
+import { cleanup } from "@testing-library/react";
 import { useState , useEffect } from "react";
 
 const useFetch = (url) => {
+    const abortCont = new AbortController();
 
     const [data , setData ] = useState(null);
     const [isPending , setIsPending ] = useState(true);
@@ -8,7 +10,7 @@ const useFetch = (url) => {
 
       useEffect( () => {
         setTimeout( () => {
-            fetch(url)
+            fetch(url , { signal: abortCont.signal})
             .then(res => {
                 if(!res.ok){
                     throw Error('could not fetch the data for that resource')
@@ -21,10 +23,16 @@ const useFetch = (url) => {
                 setError(null)
             })
             .catch( err => {
-                setError(err.message);
-                setIsPending(false)
+                if(err.name === 'AbortError'){
+                    console.log('fetch aborted');
+                } else {
+                    setIsPending(false)
+                    setError(err.message);
+                }
             })
         },1000)
+
+        return () => abortCont.abort();
           
       }, [url]);
 
