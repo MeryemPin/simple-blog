@@ -23,4 +23,5 @@ x 18-conditional loading message
 x 19-handling fetch errors
 x 20-making a custom hook
 x 21-the react router
-.. 22-exact match routes
+x 22-exact match routes
+.. 23-router links
