@@ -28,4 +28,5 @@ x 23-router links
 x 24-useEffect cleanup
 x 25-route parameters 
 notes: useParams();
-.. 26-reusing custom hook
+x 26-reusing custom hook
+.. 27-controlled inputs
