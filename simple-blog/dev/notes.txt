@@ -29,4 +29,5 @@ x 24-useEffect cleanup
 x 25-route parameters 
 notes: useParams();
 x 26-reusing custom hook
-.. 27-controlled inputs
+x 27-controlled inputs (forms)
+.. 28-submit events
