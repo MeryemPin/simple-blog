@@ -26,4 +26,6 @@ x 21-the react router
 x 22-exact match routes
 x 23-router links
 x 24-useEffect cleanup
-.. 25 route parameters
+x 25-route parameters 
+notes: useParams();
+.. 26-reusing custom hook
