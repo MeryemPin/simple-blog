@@ -30,4 +30,6 @@ x 25-route parameters
 notes: useParams();
 x 26-reusing custom hook
 x 27-controlled inputs (forms)
-.. 28-submit events
+x 28-submit events
+x 29-making a post request
+.. 30-programmatic redirects
