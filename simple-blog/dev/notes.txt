@@ -33,4 +33,5 @@ x 27-controlled inputs (forms)
 x 28-submit events
 x 29-making a post request
 x 30-programmatic redirects
-.. 31-deleting blogs
+x 31-deleting blogs
+.. 32-404 pages & next steps
