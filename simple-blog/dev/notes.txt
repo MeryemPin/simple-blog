@@ -34,4 +34,4 @@ x 28-submit events
 x 29-making a post request
 x 30-programmatic redirects
 x 31-deleting blogs
-.. 32-404 pages & next steps
+x 32-404 pages & next steps

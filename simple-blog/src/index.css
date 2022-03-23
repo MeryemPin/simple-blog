@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
 /* base styles */
@@ -10,7 +11,7 @@
   padding: 20px;
   display: flex;
   align-items: center;
-  max-width: 800px; /*600px*/
+  max-width: 600px;
   margin: 0 auto;
   border-bottom: 1px solid #f2f2f2;
 }
@@ -29,7 +30,7 @@
   color: #f1356d;
 }
 .content {
-  max-width: 800px; /*600px*/
+  max-width: 600px;
   margin: 40px auto;
   padding: 20px;
 }
@@ -48,9 +49,10 @@
   color: #f1356d;
   margin-bottom: 8px;
 }
-.blog-preview a {
+.blog-preview a{
   text-decoration: none;
 }
+
 /* blog details page */
 .blog-details h2 {
   font-size: 20px;
