@@ -32,4 +32,5 @@ x 26-reusing custom hook
 x 27-controlled inputs (forms)
 x 28-submit events
 x 29-making a post request
-.. 30-programmatic redirects
+x 30-programmatic redirects
+.. 31-deleting blogs
